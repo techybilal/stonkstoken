@@ -26,18 +26,12 @@ Live now at 👉 [stonkstoken.vercel.app](https://stonkstoken.vercel.app/)
 
 ---
 
-## 📎 Project Status
+## 📡 Connect With the Creator
 
-✅ Live  
-🧪 Testnet only  
-💬 Community integrations & real token support coming soon
+- 🐦 Twitter: [@techybilal](https://x.com/techybilal)  
+- 📸 Instagram: [@bilalwaris.dev](https://instagram.com/bilalwaris.dev)
 
----
-
-## 📡 Connect With Us
-
-Stay tuned for the rug—*Just kidding... maybe.*  
-Follow us on **Twitter/X** (coming soon), join the Discord (soon), or just vibe on the homepage.
+Follow for more memes, dev logs, and web3 fun.
 
 ---
 
